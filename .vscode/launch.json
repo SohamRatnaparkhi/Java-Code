@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AmazonInfinteArray",
+            "request": "launch",
+            "mainClass": "Leetcode.KunalKushwahaDSA.AmazonInfinteArray",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleElement",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.SingleElement",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sqrt",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.BinarySearch.Sqrt",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SplitArray",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.BinarySearch.SplitArray",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MountainSearch",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.MountainSearch",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch AmazonInfinteArray",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.AmazonInfinteArray",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindRange",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.FindRange",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeilingandFloorOfNum",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.BinarySearch.CeilingandFloorOfNum",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeilingOfNum",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.BinarySearch.CeilingOfNum",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumZero",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.SumZero",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlipImage",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.FlipImage",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotation",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.Rotation",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.Solution",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListPractise",
+            "request": "launch",
+            "mainClass": "Basic_progs.ArrayListPractise",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min_max",
+            "request": "launch",
+            "mainClass": "Basic_progs.Min_max",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypesOfNum",
+            "request": "launch",
+            "mainClass": "Basic_progs.TypesOfNum",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch p",
+            "request": "launch",
+            "mainClass": "Basic_progs.p",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch CALPWR",
+            "request": "launch",
+            "mainClass": "Codechef.CALPWR",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BUtterfly",
+            "request": "launch",
+            "mainClass": "Patterns.BUtterfly",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Floyds_tri",
+            "request": "launch",
+            "mainClass": "Patterns.Floyds_tri",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NUmber_pattern",
+            "request": "launch",
+            "mainClass": "Patterns.NUmber_pattern",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollow_triangle",
+            "request": "launch",
+            "mainClass": "Patterns.hollow_triangle",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted_half_pyr",
+            "request": "launch",
+            "mainClass": "Patterns.inverted_half_pyr",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotated_half_pyr",
+            "request": "launch",
+            "mainClass": "Patterns.rotated_half_pyr",
+            "projectName": ".java_ba88375f"
+        }
+    ]
+}
