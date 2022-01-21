@@ -1,5 +1,5 @@
 package Leetcode;
-import java .util.*;
+import java.util.*;
 
 public class rotateleft {
     public static void main(String[] args){
