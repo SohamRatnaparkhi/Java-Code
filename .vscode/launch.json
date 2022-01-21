@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch rotateleft",
+            "request": "launch",
+            "mainClass": "Leetcode.rotateleft",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
             "name": "Launch AmazonInfinteArray",
             "request": "launch",
             "mainClass": "Leetcode.KunalKushwahaDSA.AmazonInfinteArray",
