@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch maxborders2",
+            "request": "launch",
+            "mainClass": "HackerEarth.maxborders2",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch rough",
+            "request": "launch",
+            "mainClass": "Basic_progs.rough",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxBorders",
+            "request": "launch",
+            "mainClass": "HackerEarth.MaxBorders",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
             "name": "Launch rotateleft",
             "request": "launch",
             "mainClass": "Leetcode.rotateleft",
