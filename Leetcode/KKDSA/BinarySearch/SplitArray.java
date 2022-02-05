@@ -1,8 +1,8 @@
-package Leetcode.KKDSA.BinarySearch;
+//package Leetcode.KKDSA.BinarySearch;
 import java.util.*;
 public class SplitArray {
     public static void main(String[] args) {
-        int nums[] = {7,2,5,10,8};
+        int nums[] = {7,2,5,10,9};
         int m = 2;
         System.out.println(splitArray(nums, m));
     }

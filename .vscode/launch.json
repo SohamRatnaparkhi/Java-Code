@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindRange",
+            "request": "launch",
+            "mainClass": "KKDSA.FindRange",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PallindromeSplit2",
+            "request": "launch",
+            "mainClass": "PallindromeSplit2",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PallindromeSplit",
+            "request": "launch",
+            "mainClass": "PallindromeSplit",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SentenceSort",
+            "request": "launch",
+            "mainClass": "SentenceSort",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoalParser",
+            "request": "launch",
+            "mainClass": "KKDSA.GoalParser",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShuffleString",
+            "request": "launch",
+            "mainClass": "KKDSA.ShuffleString",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Substring_PAttern",
+            "request": "launch",
+            "mainClass": "Substring_PAttern",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch p4",
+            "request": "launch",
+            "mainClass": "p4",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch p3",
+            "request": "launch",
+            "mainClass": "p3",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch p2",
+            "request": "launch",
+            "mainClass": "p2",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertSort",
+            "request": "launch",
+            "mainClass": "InsertSort",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SplitArray",
+            "request": "launch",
+            "mainClass": "SplitArray",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
             "name": "Launch maxborders2",
             "request": "launch",
             "mainClass": "HackerEarth.maxborders2",

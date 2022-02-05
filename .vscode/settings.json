@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Leetcode/KKDSA/Sorting",
+        "Leetcode/KKDSA/BinarySearch",
+        "codeforces",
+        "Patterns",
+        "Leetcode"
+    ]
+}
