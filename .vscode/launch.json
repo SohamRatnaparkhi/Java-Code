@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sqrt2",
+            "request": "launch",
+            "mainClass": "Leetcode.KKDSA.BinarySearch.sqrt2",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BItManipulation",
+            "request": "launch",
+            "mainClass": "KKDSA.Maths.BItManipulation",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BItMap",
+            "request": "launch",
+            "mainClass": "KKDSA.Maths.BItMap",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BInarySearch",
+            "request": "launch",
+            "mainClass": "KKDSA.Recursion.BInarySearch",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReturnNthFibo",
+            "request": "launch",
+            "mainClass": "KKDSA.Recursion.ReturnNthFibo",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibo",
+            "request": "launch",
+            "mainClass": "KKDSA.Recursion.Fibo",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
             "name": "Launch FindRange",
             "request": "launch",
             "mainClass": "KKDSA.FindRange",

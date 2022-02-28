@@ -1,0 +1,22 @@
+AND 
+    1 False then whole expression is False
+    All true then only expression is true
+    ** Digit AND 1 always gives the same digit
+        use - Check odd even     
+
+OR
+    Opposite of AND
+
+XOR
+    If bits different then the expression is true else the expression is false
+    ** Bit XOR 1 gives the complement of the expression
+       BIt XOR 0 gives the same bit
+
+LEFT SHIFT <<
+    Shifts bits by number on right side and fills zero at empty places
+    ** Number << 1 = 2 * Number 
+       a << b = a * (2^b)
+
+RIGHT SHIFT >>
+    Removes the last "number" bits from the right side
+    ** a >> b == a / (2^b)
