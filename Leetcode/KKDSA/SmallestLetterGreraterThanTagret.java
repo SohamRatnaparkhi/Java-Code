@@ -1,4 +1,4 @@
-package Leetcode.KKDSA;
+package KKDSA;
 
 public class SmallestLetterGreraterThanTagret {
     public static void main() {

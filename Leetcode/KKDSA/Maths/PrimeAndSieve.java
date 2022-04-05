@@ -2,7 +2,9 @@ package KKDSA.Maths;
 import java.util.*;
 public class PrimeAndSieve {
     public static void main(String[] args) {
-        System.out.println(isPrime(7));
+        int n = 40;
+        boolean[] primes = new boolean[n + 1];
+        System.out.println(sievePrimeGenerator(n, primes));
     }
     public static boolean isPrime(int n) {
         // No need to check till n because after sqrt(n) there are all repeations
@@ -24,16 +26,17 @@ public class PrimeAndSieve {
          * 
          * COMPLEXITY - O(N * log(log(n)))
          */
-        ArrayList<Integer> ans = new ArrayList<Integer>(5);
-        for(int i = 2; i * i <= n; i++){
-            if(!primes[i]){
-                for(int j = i * 2; j <= n; j += i){
+        
+        for (int i = 2; i * i <= n; i++) {
+            if(primes[i] == false) {
+                for(int j = i * 2; j <= n; j += i) {
                     primes[j] = true;
                 }
             }
         }
+        ArrayList<Integer> ans = new ArrayList<Integer>(5);
         for(int i = 1; i <= n; i++) {
-            if(!primes[i]){
+            if(primes[i] == false) {
                 ans.add(i);
             }
         }

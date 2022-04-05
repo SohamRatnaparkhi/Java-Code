@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrimeAndSieve",
+            "request": "launch",
+            "mainClass": "KKDSA.Maths.PrimeAndSieve",
+            "projectName": ".java_ba88375f"
+        },
+        {
+            "type": "java",
             "name": "Launch sqrt2",
             "request": "launch",
             "mainClass": "Leetcode.KKDSA.BinarySearch.sqrt2",

@@ -1,4 +1,4 @@
-package Patterns;
+
 
 public class BUtterfly 
 {

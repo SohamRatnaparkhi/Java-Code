@@ -1,4 +1,4 @@
-package Leetcode.KKDSA;
+package KKDSA;
 
 public class SingleElement {
     public static void main(String[] args) {

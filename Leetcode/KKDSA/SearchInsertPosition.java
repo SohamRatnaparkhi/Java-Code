@@ -1,4 +1,4 @@
-package Leetcode.KKDSA;
+package KKDSA;
 
 public class SearchInsertPosition {
     public static void main(String[] args) {

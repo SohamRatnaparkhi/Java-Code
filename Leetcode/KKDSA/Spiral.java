@@ -1,4 +1,4 @@
-package Leetcode.KKDSA;
+package KKDSA;
 
 import java.util.*;
 class Spiral {
